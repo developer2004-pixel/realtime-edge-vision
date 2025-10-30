@@ -67,9 +67,8 @@ Additionally, a **TypeScript-based web viewer** is included for debugging and vi
 
 1. 📹 **Captures** real-time video frames from Android device camera (Camera2 API)
 2. ⚡ **Processes** frames using Canny edge detection in native C++ (OpenCV)
-3. 🎨 **Renders** processed frames with OpenGL ES 2.0 (hardware-accelerated)
-4. 🌐 **Bridges** to a TypeScript web viewer for cross-platform debugging
-5. 📊 **Monitors** performance with FPS logging
+3. 🌐 **Bridges** to a TypeScript web viewer for cross-platform debugging
+4. 📊 **Monitors** performance with FPS logging
 
 ### Key Highlights
 
